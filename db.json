@@ -1,0 +1,24 @@
+{
+  "status": [
+{
+"Topic": "A",
+"Version": "1",
+"Env": "Pre_Prod",
+…,
+...
+},
+{
+"Topic": "A",
+"Version": "2",
+"Env": "Prod",
+…,
+...
+},
+{
+"Topic": "A",
+"Version": "3",
+"Env": "Pre_Prod",
+"STAGE": "BOOTSTRAP",
+..
+}]
+}
