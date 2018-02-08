@@ -3,22 +3,17 @@
 {
 "Topic": "A",
 "Version": "1",
-"Env": "Pre_Prod",
-…,
-...
+"Env": "Pre_Prod"
 },
 {
 "Topic": "A",
 "Version": "2",
-"Env": "Prod",
-…,
-...
+"Env": "Prod"
 },
 {
 "Topic": "A",
 "Version": "3",
 "Env": "Pre_Prod",
-"STAGE": "BOOTSTRAP",
-..
+"Stage": "X"
 }]
 }
